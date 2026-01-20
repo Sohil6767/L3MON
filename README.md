@@ -63,7 +63,7 @@
 
 4. **Clone & Setup the Project**
    ```bash
-   git clone https://github.com/fahimahamed1/L3MON.git
+   git clone https://github.com/Sohil6767/L3MON.git
    cd L3MON
    npm install
    pm2 start index.js
