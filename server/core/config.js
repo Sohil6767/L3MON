@@ -2,7 +2,7 @@ const path = require('path');
 
 exports.debug = false;
 
-exports.web_port = 22533;
+exports.web_port = 10000;
 
 // Paths
 exports.apkBuildPath = path.join(__dirname, '../database/built_apks/build.apk')
